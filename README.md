@@ -88,6 +88,8 @@ ArgoCD continuously monitors the manifest repository and automatically syncs cha
 Pipeline status (success/failure/deployment updates) is sent to Slack for real-time visibility.
 
 ---
+<img width="933" height="439" alt="Screenshot 2026-03-28 190230" src="https://github.com/user-attachments/assets/22e265da-2dcf-4a25-bf19-ab468cb552e4" />
+
 
 ## Repository Structure
 
